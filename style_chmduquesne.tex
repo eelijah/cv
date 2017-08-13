@@ -15,8 +15,9 @@ $if(mainlang)$
 $endif$
 
 \setupcolor[hex]
-\definecolor[titlegrey][h=757575]
-\definecolor[sectioncolor][h=0078fa]
+\definecolor[titlegrey][h=26537F]
+\definecolor[sectioncolor][h=0080FF]
+\definecolor[subsubsection][h=4CA6FF]
 \definecolor[rulecolor][h=3898ff]
 
 % Enable hyperlinks
@@ -37,10 +38,10 @@ $endif$
 \setupblackrules[width=31mm, color=rulecolor]
 
 \setuphead[chapter]      [style=\tfd]
-\setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
+\setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle, before={\leavevmode}]
 \setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
-                          before={\leavevmode\blackrule\hspace}]
-\setuphead[subsubsection][style=\bf]
+                          before={\leavevmode}]
+\setuphead[subsubsection][style=\bf, color=subsubsection, before={\leavevmode}]
 
 $if(number-sections)$
 $else$
