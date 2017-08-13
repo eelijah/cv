@@ -1,100 +1,152 @@
-Johnny Coder
+Ilya Ponkratenko
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> iOS software engineer, specialist at Swift, Objective-C, Xcode and the iOS SDK.
 
 ----
 
-Education
----------
+**Specialties:**
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+VIPER, MVVM, MVC, TDD, UI test, CI/CD via Fastlane, Agile/SCRUM/Kanban methodology
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+### HeadHunter Group, Moscow | [hh.ru](https://hh.ru)
+**Senior iOS Developer,** October 2015 – Present
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Developing official iOS application for the largest russian job search portal hh.ru.
 
-* First item
+Developing new modules with Viper architecture.
+Developing and supporting a SDK contained shared codebase for two apps, via git sub-module xcproject.
+Developing UI components by code with layout constraints.
+Support and continuous optimization of the current codebase.
+Performing performance optimizations, finding and fixing memory leaks.
+Working closely in team with designers, product and project managers - all processes included participation from all stakeholders, in order to achieve best results.
+Project management was organised according to Agile methodology, including mandatory morning stand-ups and retrospective meetings by the end of iteration.
+All task management was managed in Jira.
+Workflow of development was based on VIPER and TDD.
+Unit and UI testing was provided with XCTest framework.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+Major technologies: VIPER, Swift, PureLayout, Firebase, Fastlane
 
-**That Other Job You Had**
+**Projects:**
 
-Also with a short description.
+* [HeadHunter](#hh_applicant)
+* [HR mobile](#hh_empl)
 
-Technical Experience
+
+### Alpina Digital, Moscow | [alpinadigital.ru](http://alpinadigital.ru)
+**iOS Developer,** March 2015 – October 2015
+
+Developing app a bookshelf store with an ePub reader inside.
+Developing a PDF reader with text handler for corporate version.
+Support and continuous optimization a system of personalization app for new customers.
+All task management was managed in Jira and Trello.
+
+Major technologies: MVC, Objective-C, CoreText, SQLite, Gradle
+
+**Projects:**
+
+* [Business.Books](#alpina_books)
+* [IT Reads](#alpina_itreads)
+* [Baby books](#alpina_baby)
+* and a lot of corparate versions of app
+
+
+### ARDA, Moscow | [arda.pro](http://arda.pro)
+**iOS Developer,** September 2014 – December 2014
+
+Developing app from scratch offline English-Russian dictionary.
+Product used for inhouse use.
+
+Major technologies: MVC, Objective-C, SQLite
+
+### ARDA, Moscow | [arda.pro](http://arda.pro)
+**Tableau developer,** December 2013 – September 2014
+
+Developing integrations and pilot projects of Tableau Products for well-known companies in Russia.
+
+
+### Apostol Media Group, Moscow | [apostol.com](http://apostol.com)
+**IT Engineer,** September 2012 – November 2013
+
+Administrating Ubuntu Servers.
+Setting up Cisco network soft and hardware.
+
+
+Projects
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+<a name="hh_applicant"></a>
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+### HeadHunter
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+September 2015 - Present
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+[https://itunes.apple.com/ru/app/headhunter/id502838820](https://itunes.apple.com/ru/app/headhunter/id502838820)
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+Official hh.ru iOS application for applicants
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+<a name="hh_employer"></a>
 
-[ref]: https://github.com/githubuser/superlongprojectname
+### HR mobile
 
-Extra Section, Call it Whatever You Want
+September 2015 - Present
+
+[https://itunes.apple.com/ru/app/headhunter/id1017734199](https://itunes.apple.com/ru/app/headhunter/id1017734199)
+
+Official hh.ru iOS application for employers
+
+
+<a name="alpina_books"></a>
+
+### Business.Books
+
+March 2015 – October 2015
+
+[https://itunes.apple.com/ru/app/biznes.knigi/id429622051](https://itunes.apple.com/ru/app/biznes.knigi/id429622051)
+
+A book publisher's app with a reader and a bookshelf store inside.
+Permanent inhabitant of a top-20 book grossing rating in russian AppStore.
+
+
+<a name="alpina_itreads"></a>
+
+### IT Reads
+
+March 2015 – October 2015
+
+Bookshelf store and reader for IT specialists
+[https://itunes.apple.com/ru/app/alpina-digital/id944203141](https://itunes.apple.com/ru/app/alpina-digital/id944203141)
+
+
+<a name="alpina_baby"></a>
+
+### Baby books
+
+March 2015 – October 2015
+
+Bookshelf store and reader for kids and theys parents
+
+[https://itunes.apple.com/ru/app/alpina-digital/id988466029](https://itunes.apple.com/ru/app/alpina-digital/id988466029)
+
+
+About me
 ----------------------------------------
 
 * Human Languages:
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+     * Russian (native speaker)
+     * English (level B2 and improving all time)
+     * Hebrew (going to learn)
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <cv@ponkratenko.me> • +7 (919) 101 16 62 • 30 years old\
+> skype: elijah.ponkratenko\
+> Moscow, Russia\
+> August 13, 2017
